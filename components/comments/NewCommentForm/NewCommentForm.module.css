@@ -1,0 +1,21 @@
+.formContainer {
+  max-width: 40rem;
+  margin: 0 auto 2rem;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: center;
+
+  margin-top: 20px;
+}
+
+.errorLabel {
+  color: red;
+  margin: 3px 0;
+}
+
+.formContent {
+  display: grid;
+  row-gap: 10px;
+}
